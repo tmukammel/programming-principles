@@ -2,5 +2,4 @@
 
 ## Index
 
-> [The Cognitive Software Engineer](cognitive-engineer)
-
+> [The Cognitive Software Engineer](cognitive-engineer.md)

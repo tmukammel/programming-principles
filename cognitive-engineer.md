@@ -6,7 +6,7 @@ I am going to try and depict an ideal engineer - what are the standards an ideal
 
 An engineer should be like ***[Samwise the Brave](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiglrq8keHuAhUZXisKHfTfCGkQFjAJegQIBRAC&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSamwise_Gamgee&usg=AOvVaw2uRoqTqvVrth28uo7zRvwZ)*** from *[Lord of the Rings](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiv1czekeHuAhVab30KHVFhAicQFjAAegQIDBAC&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_Lord_of_the_Rings_(film_series)&usg=AOvVaw1TR-Hgq25tLWKoeTo9uTOz)* - **nothing ever dampens his spirit!** He knows he must help [Frodo Baggins](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjxz6DpkuHuAhVDXn0KHZpBCQQQFjAKegQICxAC&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFrodo_Baggins&usg=AOvVaw3UKzO681mv3lqPpg2F_xd5) find the mount doom and destroy the ring, but it is such a heavy task just to try and think to do it let alone do it! But in this heart and mind the vision of the outcome drags him on this dangerous path to mount doom.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/43a433fd-48b8-43ce-8c9f-9ec6c810238c/samwise.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/43a433fd-48b8-43ce-8c9f-9ec6c810238c/samwise.jpeg)
+![https://i0.wp.com/voyagecomics.com/wp-content/uploads/2020/03/samwise.jpeg](https://i0.wp.com/voyagecomics.com/wp-content/uploads/2020/03/samwise.jpeg)
 
 Samwise the Brave teaches an engineer the courage and endurance in finding the best solution.
 
